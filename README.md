@@ -29,6 +29,7 @@ Abra o nevegador em: `http://localhost:3000`
 | GET | `/tarefas/:id` | Buscar um tarefa especifico |
 | POST | `/tarefas` | Cria um novo tarefa |
 | PUT | `/tarefas/id` | Atualiza um tarefa |
+| DELETE | `/tarefas/id` | Remove uma tarefa |
 
 ### Teclogias
 -Node.js
